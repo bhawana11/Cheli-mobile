@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571550992223",
+    "project_id": "signin-65b3e",
+    "storage_bucket": "signin-65b3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571550992223:android:dfc6b66bf03430ec1f18ea",
+        "android_client_info": {
+          "package_name": "com.example.cheli_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571550992223-o5rt9a7p7jlkg51dio4l6kuke5hfasnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeZxh0sWhJ4OimZH_RpjnCKZOmtCffadM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571550992223-o5rt9a7p7jlkg51dio4l6kuke5hfasnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
